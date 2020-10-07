@@ -1,0 +1,7 @@
+C:\Users\HSK\source\repos\LearnCSharp\055_DelegateEvent\bin\Debug\055_DelegateEvent.exe.config
+C:\Users\HSK\source\repos\LearnCSharp\055_DelegateEvent\bin\Debug\055_DelegateEvent.exe
+C:\Users\HSK\source\repos\LearnCSharp\055_DelegateEvent\bin\Debug\055_DelegateEvent.pdb
+C:\Users\HSK\source\repos\LearnCSharp\055_DelegateEvent\obj\Debug\055_DelegateEvent.csprojAssemblyReference.cache
+C:\Users\HSK\source\repos\LearnCSharp\055_DelegateEvent\obj\Debug\055_DelegateEvent.csproj.CoreCompileInputs.cache
+C:\Users\HSK\source\repos\LearnCSharp\055_DelegateEvent\obj\Debug\055_DelegateEvent.exe
+C:\Users\HSK\source\repos\LearnCSharp\055_DelegateEvent\obj\Debug\055_DelegateEvent.pdb

@@ -1,0 +1,7 @@
+C:\Users\HSK\source\repos\LearnCSharp\038_ThisStatic\bin\Debug\038_ThisStatic.exe.config
+C:\Users\HSK\source\repos\LearnCSharp\038_ThisStatic\bin\Debug\038_ThisStatic.exe
+C:\Users\HSK\source\repos\LearnCSharp\038_ThisStatic\bin\Debug\038_ThisStatic.pdb
+C:\Users\HSK\source\repos\LearnCSharp\038_ThisStatic\obj\Debug\038_ThisStatic.csproj.CoreCompileInputs.cache
+C:\Users\HSK\source\repos\LearnCSharp\038_ThisStatic\obj\Debug\038_ThisStatic.exe
+C:\Users\HSK\source\repos\LearnCSharp\038_ThisStatic\obj\Debug\038_ThisStatic.pdb
+C:\Users\HSK\source\repos\LearnCSharp\038_ThisStatic\obj\Debug\038_ThisStatic.csprojAssemblyReference.cache

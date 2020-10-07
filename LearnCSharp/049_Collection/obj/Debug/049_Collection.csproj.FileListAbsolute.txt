@@ -1,0 +1,7 @@
+C:\Users\HSK\source\repos\LearnCSharp\049_Collection\bin\Debug\049_Collection.exe.config
+C:\Users\HSK\source\repos\LearnCSharp\049_Collection\bin\Debug\049_Collection.exe
+C:\Users\HSK\source\repos\LearnCSharp\049_Collection\bin\Debug\049_Collection.pdb
+C:\Users\HSK\source\repos\LearnCSharp\049_Collection\obj\Debug\049_Collection.csproj.CoreCompileInputs.cache
+C:\Users\HSK\source\repos\LearnCSharp\049_Collection\obj\Debug\049_Collection.exe
+C:\Users\HSK\source\repos\LearnCSharp\049_Collection\obj\Debug\049_Collection.pdb
+C:\Users\HSK\source\repos\LearnCSharp\049_Collection\obj\Debug\049_Collection.csprojAssemblyReference.cache

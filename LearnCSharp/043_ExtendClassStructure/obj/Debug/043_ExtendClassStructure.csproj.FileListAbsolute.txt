@@ -1,0 +1,7 @@
+C:\Users\HSK\source\repos\LearnCSharp\043_ExtendClassStructure\bin\Debug\043_ExtendClassStructure.exe.config
+C:\Users\HSK\source\repos\LearnCSharp\043_ExtendClassStructure\bin\Debug\043_ExtendClassStructure.exe
+C:\Users\HSK\source\repos\LearnCSharp\043_ExtendClassStructure\bin\Debug\043_ExtendClassStructure.pdb
+C:\Users\HSK\source\repos\LearnCSharp\043_ExtendClassStructure\obj\Debug\043_ExtendClassStructure.csprojAssemblyReference.cache
+C:\Users\HSK\source\repos\LearnCSharp\043_ExtendClassStructure\obj\Debug\043_ExtendClassStructure.csproj.CoreCompileInputs.cache
+C:\Users\HSK\source\repos\LearnCSharp\043_ExtendClassStructure\obj\Debug\043_ExtendClassStructure.exe
+C:\Users\HSK\source\repos\LearnCSharp\043_ExtendClassStructure\obj\Debug\043_ExtendClassStructure.pdb

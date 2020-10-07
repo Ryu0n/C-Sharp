@@ -1,0 +1,7 @@
+C:\Users\HSK\source\repos\LearnCSharp\051_GeneralProgramming\bin\Debug\051_GeneralProgramming.exe.config
+C:\Users\HSK\source\repos\LearnCSharp\051_GeneralProgramming\bin\Debug\051_GeneralProgramming.exe
+C:\Users\HSK\source\repos\LearnCSharp\051_GeneralProgramming\bin\Debug\051_GeneralProgramming.pdb
+C:\Users\HSK\source\repos\LearnCSharp\051_GeneralProgramming\obj\Debug\051_GeneralProgramming.csprojAssemblyReference.cache
+C:\Users\HSK\source\repos\LearnCSharp\051_GeneralProgramming\obj\Debug\051_GeneralProgramming.csproj.CoreCompileInputs.cache
+C:\Users\HSK\source\repos\LearnCSharp\051_GeneralProgramming\obj\Debug\051_GeneralProgramming.exe
+C:\Users\HSK\source\repos\LearnCSharp\051_GeneralProgramming\obj\Debug\051_GeneralProgramming.pdb

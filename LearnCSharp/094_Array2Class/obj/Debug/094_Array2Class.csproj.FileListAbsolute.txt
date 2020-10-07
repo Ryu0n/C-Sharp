@@ -1,0 +1,7 @@
+C:\Users\HSK\source\repos\LearnCSharp\094_Array2Class\bin\Debug\094_Array2Class.exe.config
+C:\Users\HSK\source\repos\LearnCSharp\094_Array2Class\bin\Debug\094_Array2Class.exe
+C:\Users\HSK\source\repos\LearnCSharp\094_Array2Class\bin\Debug\094_Array2Class.pdb
+C:\Users\HSK\source\repos\LearnCSharp\094_Array2Class\obj\Debug\094_Array2Class.csprojAssemblyReference.cache
+C:\Users\HSK\source\repos\LearnCSharp\094_Array2Class\obj\Debug\094_Array2Class.csproj.CoreCompileInputs.cache
+C:\Users\HSK\source\repos\LearnCSharp\094_Array2Class\obj\Debug\094_Array2Class.exe
+C:\Users\HSK\source\repos\LearnCSharp\094_Array2Class\obj\Debug\094_Array2Class.pdb

@@ -1,0 +1,7 @@
+C:\Users\HSK\source\repos\LearnCSharp\045_AbstractClass\bin\Debug\045_AbstractClass.exe.config
+C:\Users\HSK\source\repos\LearnCSharp\045_AbstractClass\bin\Debug\045_AbstractClass.exe
+C:\Users\HSK\source\repos\LearnCSharp\045_AbstractClass\bin\Debug\045_AbstractClass.pdb
+C:\Users\HSK\source\repos\LearnCSharp\045_AbstractClass\obj\Debug\045_AbstractClass.csprojAssemblyReference.cache
+C:\Users\HSK\source\repos\LearnCSharp\045_AbstractClass\obj\Debug\045_AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\HSK\source\repos\LearnCSharp\045_AbstractClass\obj\Debug\045_AbstractClass.exe
+C:\Users\HSK\source\repos\LearnCSharp\045_AbstractClass\obj\Debug\045_AbstractClass.pdb

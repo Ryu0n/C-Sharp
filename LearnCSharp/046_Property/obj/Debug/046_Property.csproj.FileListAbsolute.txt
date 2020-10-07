@@ -1,0 +1,6 @@
+C:\Users\HSK\source\repos\LearnCSharp\046_Property\bin\Debug\046_Property.exe.config
+C:\Users\HSK\source\repos\LearnCSharp\046_Property\bin\Debug\046_Property.exe
+C:\Users\HSK\source\repos\LearnCSharp\046_Property\bin\Debug\046_Property.pdb
+C:\Users\HSK\source\repos\LearnCSharp\046_Property\obj\Debug\046_Property.csproj.CoreCompileInputs.cache
+C:\Users\HSK\source\repos\LearnCSharp\046_Property\obj\Debug\046_Property.exe
+C:\Users\HSK\source\repos\LearnCSharp\046_Property\obj\Debug\046_Property.pdb

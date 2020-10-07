@@ -1,0 +1,7 @@
+C:\Users\HSK\source\repos\LearnCSharp\044_InterfaceAbstractClass\bin\Debug\044_InterfaceAbstractClass.exe.config
+C:\Users\HSK\source\repos\LearnCSharp\044_InterfaceAbstractClass\bin\Debug\044_InterfaceAbstractClass.exe
+C:\Users\HSK\source\repos\LearnCSharp\044_InterfaceAbstractClass\bin\Debug\044_InterfaceAbstractClass.pdb
+C:\Users\HSK\source\repos\LearnCSharp\044_InterfaceAbstractClass\obj\Debug\044_InterfaceAbstractClass.csprojAssemblyReference.cache
+C:\Users\HSK\source\repos\LearnCSharp\044_InterfaceAbstractClass\obj\Debug\044_InterfaceAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\HSK\source\repos\LearnCSharp\044_InterfaceAbstractClass\obj\Debug\044_InterfaceAbstractClass.exe
+C:\Users\HSK\source\repos\LearnCSharp\044_InterfaceAbstractClass\obj\Debug\044_InterfaceAbstractClass.pdb

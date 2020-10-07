@@ -1,0 +1,7 @@
+C:\Users\HSK\source\repos\LearnCSharp\040_IsAs\bin\Debug\040_IsAs.exe.config
+C:\Users\HSK\source\repos\LearnCSharp\040_IsAs\bin\Debug\040_IsAs.exe
+C:\Users\HSK\source\repos\LearnCSharp\040_IsAs\bin\Debug\040_IsAs.pdb
+C:\Users\HSK\source\repos\LearnCSharp\040_IsAs\obj\Debug\040_IsAs.csproj.CoreCompileInputs.cache
+C:\Users\HSK\source\repos\LearnCSharp\040_IsAs\obj\Debug\040_IsAs.exe
+C:\Users\HSK\source\repos\LearnCSharp\040_IsAs\obj\Debug\040_IsAs.pdb
+C:\Users\HSK\source\repos\LearnCSharp\040_IsAs\obj\Debug\040_IsAs.csprojAssemblyReference.cache

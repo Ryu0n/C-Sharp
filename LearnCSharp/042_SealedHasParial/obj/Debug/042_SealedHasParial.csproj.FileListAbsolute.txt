@@ -1,0 +1,7 @@
+C:\Users\HSK\source\repos\LearnCSharp\042_SealedHasParial\bin\Debug\042_SealedHasParial.exe.config
+C:\Users\HSK\source\repos\LearnCSharp\042_SealedHasParial\bin\Debug\042_SealedHasParial.exe
+C:\Users\HSK\source\repos\LearnCSharp\042_SealedHasParial\bin\Debug\042_SealedHasParial.pdb
+C:\Users\HSK\source\repos\LearnCSharp\042_SealedHasParial\obj\Debug\042_SealedHasParial.csprojAssemblyReference.cache
+C:\Users\HSK\source\repos\LearnCSharp\042_SealedHasParial\obj\Debug\042_SealedHasParial.csproj.CoreCompileInputs.cache
+C:\Users\HSK\source\repos\LearnCSharp\042_SealedHasParial\obj\Debug\042_SealedHasParial.exe
+C:\Users\HSK\source\repos\LearnCSharp\042_SealedHasParial\obj\Debug\042_SealedHasParial.pdb

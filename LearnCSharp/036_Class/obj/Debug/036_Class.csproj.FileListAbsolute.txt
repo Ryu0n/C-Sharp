@@ -1,0 +1,7 @@
+C:\Users\HSK\source\repos\LearnCSharp\036_Class\bin\Debug\036_Class.exe.config
+C:\Users\HSK\source\repos\LearnCSharp\036_Class\bin\Debug\036_Class.exe
+C:\Users\HSK\source\repos\LearnCSharp\036_Class\bin\Debug\036_Class.pdb
+C:\Users\HSK\source\repos\LearnCSharp\036_Class\obj\Debug\036_Class.csprojAssemblyReference.cache
+C:\Users\HSK\source\repos\LearnCSharp\036_Class\obj\Debug\036_Class.csproj.CoreCompileInputs.cache
+C:\Users\HSK\source\repos\LearnCSharp\036_Class\obj\Debug\036_Class.exe
+C:\Users\HSK\source\repos\LearnCSharp\036_Class\obj\Debug\036_Class.pdb
