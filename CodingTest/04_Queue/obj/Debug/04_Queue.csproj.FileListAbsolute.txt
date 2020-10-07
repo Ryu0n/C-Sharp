@@ -1,0 +1,7 @@
+C:\Users\HSK\source\repos\CodingTest\04_Queue\obj\Debug\04_Queue.csprojAssemblyReference.cache
+C:\Users\HSK\source\repos\CodingTest\04_Queue\obj\Debug\04_Queue.csproj.CoreCompileInputs.cache
+C:\Users\HSK\source\repos\CodingTest\04_Queue\bin\Debug\04_Queue.exe.config
+C:\Users\HSK\source\repos\CodingTest\04_Queue\bin\Debug\04_Queue.exe
+C:\Users\HSK\source\repos\CodingTest\04_Queue\bin\Debug\04_Queue.pdb
+C:\Users\HSK\source\repos\CodingTest\04_Queue\obj\Debug\04_Queue.exe
+C:\Users\HSK\source\repos\CodingTest\04_Queue\obj\Debug\04_Queue.pdb

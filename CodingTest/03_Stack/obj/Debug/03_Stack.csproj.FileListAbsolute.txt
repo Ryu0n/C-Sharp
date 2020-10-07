@@ -1,0 +1,7 @@
+C:\Users\HSK\source\repos\CodingTest\03_Stack\bin\Debug\03_Stack.exe.config
+C:\Users\HSK\source\repos\CodingTest\03_Stack\bin\Debug\03_Stack.exe
+C:\Users\HSK\source\repos\CodingTest\03_Stack\bin\Debug\03_Stack.pdb
+C:\Users\HSK\source\repos\CodingTest\03_Stack\obj\Debug\03_Stack.csprojAssemblyReference.cache
+C:\Users\HSK\source\repos\CodingTest\03_Stack\obj\Debug\03_Stack.csproj.CoreCompileInputs.cache
+C:\Users\HSK\source\repos\CodingTest\03_Stack\obj\Debug\03_Stack.exe
+C:\Users\HSK\source\repos\CodingTest\03_Stack\obj\Debug\03_Stack.pdb

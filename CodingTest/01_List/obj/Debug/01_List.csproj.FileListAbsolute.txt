@@ -1,0 +1,7 @@
+C:\Users\HSK\source\repos\CodingTest\01_List\bin\Debug\01_List.exe.config
+C:\Users\HSK\source\repos\CodingTest\01_List\bin\Debug\01_List.exe
+C:\Users\HSK\source\repos\CodingTest\01_List\bin\Debug\01_List.pdb
+C:\Users\HSK\source\repos\CodingTest\01_List\obj\Debug\01_List.csprojAssemblyReference.cache
+C:\Users\HSK\source\repos\CodingTest\01_List\obj\Debug\01_List.csproj.CoreCompileInputs.cache
+C:\Users\HSK\source\repos\CodingTest\01_List\obj\Debug\01_List.exe
+C:\Users\HSK\source\repos\CodingTest\01_List\obj\Debug\01_List.pdb

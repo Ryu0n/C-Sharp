@@ -1,0 +1,7 @@
+C:\Users\HSK\source\repos\CodingTest\06_Recursive\bin\Debug\06_Recursive.exe.config
+C:\Users\HSK\source\repos\CodingTest\06_Recursive\bin\Debug\06_Recursive.exe
+C:\Users\HSK\source\repos\CodingTest\06_Recursive\bin\Debug\06_Recursive.pdb
+C:\Users\HSK\source\repos\CodingTest\06_Recursive\obj\Debug\06_Recursive.csprojAssemblyReference.cache
+C:\Users\HSK\source\repos\CodingTest\06_Recursive\obj\Debug\06_Recursive.csproj.CoreCompileInputs.cache
+C:\Users\HSK\source\repos\CodingTest\06_Recursive\obj\Debug\06_Recursive.exe
+C:\Users\HSK\source\repos\CodingTest\06_Recursive\obj\Debug\06_Recursive.pdb

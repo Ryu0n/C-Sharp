@@ -1,0 +1,7 @@
+C:\Users\HSK\source\repos\CodingTest\02_LinkedList\bin\Debug\02_LinkedList.exe.config
+C:\Users\HSK\source\repos\CodingTest\02_LinkedList\bin\Debug\02_LinkedList.exe
+C:\Users\HSK\source\repos\CodingTest\02_LinkedList\bin\Debug\02_LinkedList.pdb
+C:\Users\HSK\source\repos\CodingTest\02_LinkedList\obj\Debug\02_LinkedList.csprojAssemblyReference.cache
+C:\Users\HSK\source\repos\CodingTest\02_LinkedList\obj\Debug\02_LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\HSK\source\repos\CodingTest\02_LinkedList\obj\Debug\02_LinkedList.exe
+C:\Users\HSK\source\repos\CodingTest\02_LinkedList\obj\Debug\02_LinkedList.pdb

@@ -1,0 +1,7 @@
+C:\Users\HSK\source\repos\CodingTest\07_Sorting\bin\Debug\07_Sorting.exe.config
+C:\Users\HSK\source\repos\CodingTest\07_Sorting\bin\Debug\07_Sorting.exe
+C:\Users\HSK\source\repos\CodingTest\07_Sorting\bin\Debug\07_Sorting.pdb
+C:\Users\HSK\source\repos\CodingTest\07_Sorting\obj\Debug\07_Sorting.csprojAssemblyReference.cache
+C:\Users\HSK\source\repos\CodingTest\07_Sorting\obj\Debug\07_Sorting.csproj.CoreCompileInputs.cache
+C:\Users\HSK\source\repos\CodingTest\07_Sorting\obj\Debug\07_Sorting.exe
+C:\Users\HSK\source\repos\CodingTest\07_Sorting\obj\Debug\07_Sorting.pdb

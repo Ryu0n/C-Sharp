@@ -1,0 +1,7 @@
+C:\Users\HSK\source\repos\CodingTest\08_Searching\bin\Debug\08_Searching.exe.config
+C:\Users\HSK\source\repos\CodingTest\08_Searching\bin\Debug\08_Searching.exe
+C:\Users\HSK\source\repos\CodingTest\08_Searching\bin\Debug\08_Searching.pdb
+C:\Users\HSK\source\repos\CodingTest\08_Searching\obj\Debug\08_Searching.csprojAssemblyReference.cache
+C:\Users\HSK\source\repos\CodingTest\08_Searching\obj\Debug\08_Searching.csproj.CoreCompileInputs.cache
+C:\Users\HSK\source\repos\CodingTest\08_Searching\obj\Debug\08_Searching.exe
+C:\Users\HSK\source\repos\CodingTest\08_Searching\obj\Debug\08_Searching.pdb

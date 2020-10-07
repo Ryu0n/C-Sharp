@@ -1,0 +1,7 @@
+C:\Users\HSK\source\repos\CodingTest\00_Array\bin\Debug\00_Array.exe.config
+C:\Users\HSK\source\repos\CodingTest\00_Array\bin\Debug\00_Array.exe
+C:\Users\HSK\source\repos\CodingTest\00_Array\bin\Debug\00_Array.pdb
+C:\Users\HSK\source\repos\CodingTest\00_Array\obj\Debug\00_Array.csprojAssemblyReference.cache
+C:\Users\HSK\source\repos\CodingTest\00_Array\obj\Debug\00_Array.csproj.CoreCompileInputs.cache
+C:\Users\HSK\source\repos\CodingTest\00_Array\obj\Debug\00_Array.exe
+C:\Users\HSK\source\repos\CodingTest\00_Array\obj\Debug\00_Array.pdb
